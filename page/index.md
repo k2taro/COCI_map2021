@@ -1,5 +1,7 @@
 トップページ  
 
+作成のための詳しい手順は[こちら](../procedure)にまとめています。
+
 # 全体プロット  
 <iframe width="800" height="500" frameborder="0" scrolling="no" src="base.html"></iframe>
 
