@@ -3,7 +3,7 @@
 作成のための詳しい手順は[こちら](../procedure)にまとめています。  
 
 
-# 通常プロット  
+# 通常マップ  
 <iframe width="1000" height="800" frameborder="0" scrolling="no" src="base.html"></iframe>
 クリックをすると、詳細ページへ遷移します。
 
