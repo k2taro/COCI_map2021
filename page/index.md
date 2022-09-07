@@ -12,14 +12,16 @@
 ### 詳細
 - 対象論文数:2314  
 - クラスタ数：84  
+
 ### オーバーレイしたマップ  
-<iframe width="1000" height="750" frameborder="0" scrolling="no" src="COVID.html"></iframe>
+<iframe width="1000" height="700" frameborder="0" scrolling="no" src="COVID.html"></iframe>
 クリックをすると、詳細ページへ遷移します。
 
 ## 科研費成果論文のオーバーレイ  
 ### 詳細  
 - 対象論文数:502  
 - クラスタ数：151  
+
 ### オーバーレイしたマップ  
-<iframe width="1000" height="800" frameborder="0" scrolling="no" src="KAKEN.html"></iframe>
+<iframe width="1000" height="700" frameborder="0" scrolling="no" src="KAKEN.html"></iframe>
 クリックをすると、詳細ページへ遷移します。
