@@ -25,5 +25,10 @@
 
 ### 2.1クラスタリング方法
 
+共引用度とクラスタ数の比較  
+<iframe width="1000" height="700" frameborder="0" scrolling="no" src="clustering_stats_std.html"></iframe>  
+
+共引用度とクラスタ数の比較(logスケール)  
+<iframe width="1000" height="700" frameborder="0" scrolling="no" src="clustering_stats_log.html"></iframe> 
 
 ### 2.2クラスタリングの分野推定
