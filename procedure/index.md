@@ -31,4 +31,13 @@
 共引用度とクラスタ数の比較(logスケール)  
 <iframe width="600" height="500" frameborder="0" scrolling="no" src="clustering_stats_log.html"></iframe> 
 
+最大サイズのクラスタをさらに分割  
+
+最大クラスタを再分割_共引用度とクラスタ数の比較  
+<iframe width="600" height="500" frameborder="0" scrolling="no" src="clustering_823_stats_std.html"></iframe>  
+
+最大クラスタを再分割_共引用度とクラスタ数の比較(logスケール)  
+<iframe width="600" height="500" frameborder="0" scrolling="no" src="clustering_823_stats_log.html"></iframe> 
+
+
 ### 2.2クラスタリングの分野推定
