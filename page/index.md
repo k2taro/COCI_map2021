@@ -54,4 +54,4 @@
 | ----   | ----         | ----      | ---- | ---- | ---- |
 |[3898_](details/3898_.html)|59	|12	|20%	|3100:Physics and Astronomy	|Primordial Black Hole, Gravitational Waves, Dark Matter|
 |[3906_](details/3906_.html)|64	|11	|17%	|3100:Physics and Astronomy 	|Muon Anomalous Magnetic Moment, Hadronic Vacuum Polarization, anomalies, model|
-|[1369_](details/1369_.html)|427	|47	|11%	|3100:Physics and Astronomy	|Twisted Bilayer Graphene, topological, Non-Hermitian|
+|<a href="details/1369_.html">1369_</a>|427	|47	|11%	|3100:Physics and Astronomy	|Twisted Bilayer Graphene, topological, Non-Hermitian|
