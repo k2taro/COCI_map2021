@@ -44,7 +44,7 @@
 クラスタ内の論文の最大分野をそのクラスタの分野とした。  
 クラスタによって、最も多い分野の比率は異なるが(特定の分野に偏ったものもあれば、複数の分野が集まったクラスタもある)、最多分野の割合が 50%を超えたクラスタは 241、30%超えたクラスタは 480 クラスタとなっており多くのクラスタでは支配的な分野を持つクラスタとなった。  
 以下の表はクラスタごとの最も多い分野(分野1)、次に多い分野(分野2)、第3位の分野(分野3)とそれぞれのクラスタ内の比率を示したものである。
-<iframe width="600" height="500" frameborder="0" scrolling="yes" src="cls_subject_table.html"></iframe>
+<iframe width="1000" height="1000" frameborder="0" scrolling="yes" src="cls_subject_table.html"></iframe>
 
 ## 3.2次元空間へのマッピング
 Fruchterman-Reingold アルゴリズムを用い
