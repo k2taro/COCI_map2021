@@ -40,15 +40,15 @@
 小規模な科研費成果論文のシェアが大きいクラスタ					
 |クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
 | ----   | ----         | ----      | ---- | ---- | ---- |
-|26500_	|17	|8	|47%	|3100:Physics and Astronomy	|skyrmion, magnetic, lattice, topological|
-|4076_	|32	|13	|41%	|1900:Earth and Planetary Sciences	|Asteroid(101955)Bennu, White Dwarf, surface|
-|5963_	|13	|5	|38%	|2700:Medicine	|Influenza, baloxavir, susceptibility, endonuclease|
-|3912_	|11	|4	|36%	|3100:Physics and Astronomy	|modular A4/S4,  mixing, neutrino, invariance|
-|576_	|29	|9	|31%	|2700:Medicine	|Neuromyelitis Optica Spectrum Disorders, glycoprotein Antibodies, MOG|
+|[26500_](details/26500_.html)	|17	|8	|47%	|3100:Physics and Astronomy	|skyrmion, magnetic, lattice, topological|
+|[4076_](details/4076_.html)	|32	|13	|41%	|1900:Earth and Planetary Sciences	|Asteroid(101955)Bennu, White Dwarf, surface|
+|[5963_](details/5963_.html)	|13	|5	|38%	|2700:Medicine	|Influenza, baloxavir, susceptibility, endonuclease|
+|[3912_](details/3912_.html)	|11	|4	|36%	|3100:Physics and Astronomy	|modular A4/S4,  mixing, neutrino, invariance|
+|[576_](details/576_.html)	|29	|9	|31%	|2700:Medicine	|Neuromyelitis Optica Spectrum Disorders, glycoprotein Antibodies, MOG|
 
 大規模な科研費成果論文のシェアが大きいクラスタ					
 |クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
 | ----   | ----         | ----      | ---- | ---- | ---- |
-|3898_	|59	|12	|20%	|3100:Physics and Astronomy	|Primordial Black Hole, Gravitational Waves, Dark Matter|
-|3906_	|64	|11	|17%	|3100:Physics and Astronomy 	|Muon Anomalous Magnetic Moment, Hadronic Vacuum Polarization, anomalies, model|
-|1369_	|427	|47	|11%	|3100:Physics and Astronomy	|Twisted Bilayer Graphene, topological, Non-Hermitian|
+|[3898_](details/3898_.html)	|59	|12	|20%	|3100:Physics and Astronomy	|Primordial Black Hole, Gravitational Waves, Dark Matter|
+|[3906_](details/3906_.html)	|64	|11	|17%	|3100:Physics and Astronomy 	|Muon Anomalous Magnetic Moment, Hadronic Vacuum Polarization, anomalies, model|
+|[1369_](details/1369_.html)	|427	|47	|11%	|3100:Physics and Astronomy	|Twisted Bilayer Graphene, topological, Non-Hermitian|
