@@ -17,14 +17,15 @@
 <iframe width="1000" height="700" frameborder="0" scrolling="no" src="COVID.html"></iframe>
 クリックをすると、詳細ページへ遷移します。
 
-### 特徴的なクラスタ
+### 特徴的なクラスタ   
+
 |クラスタ|クラスタサイズ|Covid論文数|シェア|分野|タイトル語(Covid-19は除く)|
-| ----   | ----         | ----      | ---- | ---- | ---- |
-|[17229_](details/17229_.html)	|16	|16	|100%	|3300:Social Sciences	|travel, impact, behavior, restriction, transport|
-|[4372_](details/4372_.html)	|22	|19	|86%	|3500:Dentistry	|dental, dentistry|
-|[517_](details/517_.html)	|69	|65	|94%	|2300:Environmental |Science	Air Pollution, Temperature, Transmission|
-|[15294_](details/15294_.html)	|15	|14	|93%	|1400:Business, Management and Accounting	|Panic Buying, consumer|
-|[6755_](details/6755_.html)	|16	|16	|100%	|2100:Energy	|Energy, electricity, demand|
+| ---- | ----         | ----      | ---- | ---- | ---- |
+|[17229_](details/17229_.html)|16	|16	|100%	|3300:Social Sciences	|travel, impact, behavior, restriction, transport|
+|[4372_](details/4372_.html)|22	|19	|86%	|3500:Dentistry	|dental, dentistry|
+|[517_](details/517_.html)|69	|65	|94%	|2300:Environmental |Science	Air Pollution, Temperature, Transmission|
+|[15294_](details/15294_.html)|15	|14	|93%	|1400:Business, Management and Accounting	|Panic Buying, consumer|
+|[6755_](details/6755_.html)|16	|16	|100%	|2100:Energy	|Energy, electricity, demand|
 
 
 ## 科研費成果論文のオーバーレイ  
@@ -41,16 +42,16 @@
 
 |クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
 | ----   | ----         | ----      | ---- | ---- | ---- |
-|[26500_](details/26500_.html)	|17	|8	|47%	|3100:Physics and Astronomy	|skyrmion, magnetic, lattice, topological|
-|[4076_](details/4076_.html)	|32	|13	|41%	|1900:Earth and Planetary Sciences	|Asteroid(101955)Bennu, White Dwarf, surface|
-|[5963_](details/5963_.html)	|13	|5	|38%	|2700:Medicine	|Influenza, baloxavir, susceptibility, endonuclease|
-|[3912_](details/3912_.html)	|11	|4	|36%	|3100:Physics and Astronomy	|modular A4/S4,  mixing, neutrino, invariance|
-|[576_](details/576_.html)	|29	|9	|31%	|2700:Medicine	|Neuromyelitis Optica Spectrum Disorders, glycoprotein Antibodies, MOG|
+|[26500_](details/26500_.html)|17	|8	|47%	|3100:Physics and Astronomy	|skyrmion, magnetic, lattice, topological|
+|[4076_](details/4076_.html)|32	|13	|41%	|1900:Earth and Planetary Sciences	|Asteroid(101955)Bennu, White Dwarf, surface|
+|[5963_](details/5963_.html)|13	|5	|38%	|2700:Medicine	|Influenza, baloxavir, susceptibility, endonuclease|
+|[3912_](details/3912_.html)|11	|4	|36%	|3100:Physics and Astronomy	|modular A4/S4,  mixing, neutrino, invariance|
+|[576_](details/576_.html)|29	|9	|31%	|2700:Medicine	|Neuromyelitis Optica Spectrum Disorders, glycoprotein Antibodies, MOG|
 
 大規模な科研費成果論文のシェアが大きいクラスタ					
 
 |クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
 | ----   | ----         | ----      | ---- | ---- | ---- |
-|[3898_](details/3898_.html)	|59	|12	|20%	|3100:Physics and Astronomy	|Primordial Black Hole, Gravitational Waves, Dark Matter|
-|[3906_](details/3906_.html)	|64	|11	|17%	|3100:Physics and Astronomy 	|Muon Anomalous Magnetic Moment, Hadronic Vacuum Polarization, anomalies, model|
-|[1369_](details/1369_.html)	|427	|47	|11%	|3100:Physics and Astronomy	|Twisted Bilayer Graphene, topological, Non-Hermitian|
+|[3898_](details/3898_.html)|59	|12	|20%	|3100:Physics and Astronomy	|Primordial Black Hole, Gravitational Waves, Dark Matter|
+|[3906_](details/3906_.html)|64	|11	|17%	|3100:Physics and Astronomy 	|Muon Anomalous Magnetic Moment, Hadronic Vacuum Polarization, anomalies, model|
+|[1369_](details/1369_.html)|427	|47	|11%	|3100:Physics and Astronomy	|Twisted Bilayer Graphene, topological, Non-Hermitian|
