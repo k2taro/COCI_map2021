@@ -37,7 +37,8 @@
 クリックをすると、詳細ページへ遷移します。
 
 ### 日本のシェアが高いクラスタ  
-小規模な科研費成果論文のシェアが大きいクラスタ					
+小規模な科研費成果論文のシェアが大きいクラスタ  
+
 |クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
 | ----   | ----         | ----      | ---- | ---- | ---- |
 |[26500_](details/26500_.html)	|17	|8	|47%	|3100:Physics and Astronomy	|skyrmion, magnetic, lattice, topological|
@@ -47,6 +48,7 @@
 |[576_](details/576_.html)	|29	|9	|31%	|2700:Medicine	|Neuromyelitis Optica Spectrum Disorders, glycoprotein Antibodies, MOG|
 
 大規模な科研費成果論文のシェアが大きいクラスタ					
+
 |クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
 | ----   | ----         | ----      | ---- | ---- | ---- |
 |[3898_](details/3898_.html)	|59	|12	|20%	|3100:Physics and Astronomy	|Primordial Black Hole, Gravitational Waves, Dark Matter|
