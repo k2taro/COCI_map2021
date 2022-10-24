@@ -17,6 +17,16 @@
 <iframe width="1000" height="700" frameborder="0" scrolling="no" src="COVID.html"></iframe>
 クリックをすると、詳細ページへ遷移します。
 
+### 特徴的なクラスタ
+|クラスタ|クラスタサイズ|Covid論文数|シェア|分野|タイトル語(Covid-19は除く)|
+| ----   | ----         | ----      | ---- | ---- | ---- |
+|[17229_](details/17229_.html)	|16	|16	|100%	|3300:Social Sciences	|travel, impact, behavior, restriction, transport|
+|[4372_](details/4372_.html)	|22	|19	|86%	|3500:Dentistry	|dental, dentistry|
+|[517_](details/517_.html)	|69	|65	|94%	|2300:Environmental |Science	Air Pollution, Temperature, Transmission|
+|[15294_](details/15294_.html)	|15	|14	|93%	|1400:Business, Management and Accounting	|Panic Buying, consumer|
+|[6755_](details/6755_.html)	|16	|16	|100%	|2100:Energy	|Energy, electricity, demand|
+
+
 ## 科研費成果論文のオーバーレイ  
 ### 詳細  
 - 対象論文数:502  
