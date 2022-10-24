@@ -35,3 +35,20 @@
 ### オーバーレイしたマップ  
 <iframe width="1000" height="700" frameborder="0" scrolling="no" src="KAKEN.html"></iframe>
 クリックをすると、詳細ページへ遷移します。
+
+### 日本のシェアが高いクラスタ  
+小規模な科研費成果論文のシェアが大きいクラスタ					
+|クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
+| ----   | ----         | ----      | ---- | ---- | ---- |
+|26500_	|17	|8	|47%	|3100:Physics and Astronomy	|skyrmion, magnetic, lattice, topological|
+|4076_	|32	|13	|41%	|1900:Earth and Planetary Sciences	|Asteroid(101955)Bennu, White Dwarf, surface|
+|5963_	|13	|5	|38%	|2700:Medicine	|Influenza, baloxavir, susceptibility, endonuclease|
+|3912_	|11	|4	|36%	|3100:Physics and Astronomy	|modular A4/S4,  mixing, neutrino, invariance|
+|576_	|29	|9	|31%	|2700:Medicine	|Neuromyelitis Optica Spectrum Disorders, glycoprotein Antibodies, MOG|
+
+大規模な科研費成果論文のシェアが大きいクラスタ					
+|クラスタ	|クラスタサイズ	|科研費成果論文	|シェア	|分野	|タイトル語|
+| ----   | ----         | ----      | ---- | ---- | ---- |
+|3898_	|59	|12	|20%	|3100:Physics and Astronomy	|Primordial Black Hole, Gravitational Waves, Dark Matter|
+|3906_	|64	|11	|17%	|3100:Physics and Astronomy 	|Muon Anomalous Magnetic Moment, Hadronic Vacuum Polarization, anomalies, model|
+|1369_	|427	|47	|11%	|3100:Physics and Astronomy	|Twisted Bilayer Graphene, topological, Non-Hermitian|
