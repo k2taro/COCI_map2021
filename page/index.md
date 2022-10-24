@@ -23,7 +23,7 @@
 | ---- | ----         | ----      | ---- | ---- | ---- |
 |<a href="details/17229_.html">17229_</a>|16	|16	|100%	|3300:Social Sciences	|travel, impact, behavior, restriction, transport|
 |<a href="details/4372_.html">4372_</a>|22	|19	|86%	|3500:Dentistry	|dental, dentistry|
-|<a href="details/517_.html">517_</a>|69	|65	|94%	|2300:Environmental |Science	Air Pollution, Temperature, Transmission|
+|<a href="details/517_.html">517_</a>|69	|65	|94%	|2300:Environmental Science |Air Pollution, Temperature, Transmission|
 |<a href="details/15294_.html">15294_</a>|15	|14	|93%	|1400:Business, Management and Accounting	|Panic Buying, consumer|
 |<a href="details/6755_.html">6755_</a>|16	|16	|100%	|2100:Energy	|Energy, electricity, demand|
 
