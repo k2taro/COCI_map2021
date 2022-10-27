@@ -11,7 +11,7 @@
 [https://k2taro.github.io/COCI_map2021/procedure/](https://k2taro.github.io/COCI_map2021/procedure/)
 
 ## データ公開
-工事中
+[こちら](data)
 
 
 # ライセンス
