@@ -4,10 +4,18 @@
 - 改行コード：LF  
 ----
 # 各ファイルについての説明  
-## 論文
-各項目は以下の通り  
-- 
-- 
+## 論文  
+対象となった論文とそのクラスタリング結果。
+各項目は以下の通り 。 
+- DOI : DOI
+- title : タイトル
+- author : 著者
+- year : 発行年
+- source_title : 掲載誌
+- source_id : 掲載誌のISSN
+- scimago_source_id : 掲載誌のscimagoのID
+- result : クラスタリング結果のクラスタID
+- KAKEN : 科研費成果論文か否か(boolean)
 
 ## cls.csv
 クラスタの位置情報や属性情報を記載。  
