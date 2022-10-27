@@ -18,6 +18,6 @@
 CC-BY
 
 # 利用データ
-- COCI January 2022 Dump([https://doi.org/10.6084/m9.figshare.6741422.v13](https://doi.org/10.6084/m9.figshare.6741422.v13))
+- COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations, January 2022 Dump([https://doi.org/10.6084/m9.figshare.6741422.v13](https://doi.org/10.6084/m9.figshare.6741422.v13))
 - Scimago Journal & Country Rank([https://www.scimagojr.com/](https://www.scimagojr.com/)), retrieved 2021-09-12.
 
