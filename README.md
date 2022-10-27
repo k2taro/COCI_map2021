@@ -15,7 +15,7 @@
 
 
 # ライセンス
-CC-BY
+[CC-BY](https://creativecommons.org/licenses/by/4.0/deed.ja)
 
 # 利用データ
 - COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations, January 2022 Dump([https://doi.org/10.6084/m9.figshare.6741422.v13](https://doi.org/10.6084/m9.figshare.6741422.v13))
