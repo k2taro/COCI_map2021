@@ -1,7 +1,7 @@
 # 概要   
 作成したマップの可視化ページです。  
 作成のための詳しい手順は[こちら](../procedure)にまとめています。  
-
+クラスタリング結果や対象となった論文の情報などは[データ公開](https://github.com/k2taro/COCI_map2021/tree/main/data)しています。
 
 # 通常マップ  
 <iframe width="1000" height="700" frameborder="0" scrolling="no" src="base.html"></iframe>
