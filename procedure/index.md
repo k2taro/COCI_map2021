@@ -24,6 +24,8 @@
 ## 2.クラスタリング
 
 ### 2.1 クラスタリング方法
+以下のグラフの通り、single-linkageクラスタリングで適切な閾値を探った。  
+閾値0.17、最小クラスタサイズ10でクラスタリングを行い、さらに、極端に大きなサイズのクラスタを閾値0.19で再クラスタリング(0.19の根拠は適当)することで、最終的な結果とした。  
 
 共引用度とクラスタ数の比較  
 <iframe width="600" height="500" frameborder="0" scrolling="no" src="clustering_stats_std.html"></iframe>  
@@ -46,6 +48,12 @@
   - 中央値クラスタサイズ：17  
   - 最大クラスタサイズ：765  
   - 最小クラスタサイズ：10  
+
+クラスタサイズごとの頻度分布  
+<iframe width="600" height="500" frameborder="0" scrolling="no" src="cls_hist.html"></iframe>  
+
+クラスタサイズごとの頻度分布(logスケール)  
+<iframe width="600" height="500" frameborder="0" scrolling="no" src="cls_hist_log.html"></iframe>  
 
 ## 3.可視化
 
